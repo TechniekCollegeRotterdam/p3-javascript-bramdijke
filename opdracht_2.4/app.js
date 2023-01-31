@@ -15,6 +15,6 @@ multiplyByFive(5, 6);
 // Oefening 3 
 function calculateMinutes (minutes) {
     let answer3 = minutes / 60;
-    console.log(answer3);
+    console.log(answer3); 
 }
 calculateMinutes(120);
