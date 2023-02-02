@@ -22,7 +22,3 @@ function minus() {
     answer = Number(value1.value) - Number(value2.value);
     solution.innerText = "Het antwoord is " + answer;
 }
-// je bent er bijna:
-// je hebt nu overal Number() gebruikt, dat is prima, maar het was alleen nodig bij de add(). 
-// ik zie nu dat je vier keer dezelfde variabel answer aanmaakt. Als je deze ook buiten de functies plaatst hoef je het maar 1 keer aan te maken.
-// kijk op regel 4 en 7
