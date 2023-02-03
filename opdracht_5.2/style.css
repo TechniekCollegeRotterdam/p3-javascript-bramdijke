@@ -1,0 +1,38 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+  } 
+   
+  body { 
+    width: 100vw; 
+    height: 300vh;
+    overflow-x: hidden; 
+  } 
+  nav { 
+    width: 100vw; 
+    height: 10vh; 
+    position: fixed; 
+    left: 0; 
+    top: 0; 
+    background-color: black; 
+    display: flex; 
+    justify-content: center; 
+    transition: transform 0.2s; 
+    transform: translateY(0);
+  } 
+
+  .hide {
+    transform: translateY(-100%);
+  }
+   
+  ul { 
+    display: flex; 
+    align-items: center; 
+    gap: 50px; 
+  } 
+
+  li { 
+    list-style-type: none; 
+    color: white; 
+  }
