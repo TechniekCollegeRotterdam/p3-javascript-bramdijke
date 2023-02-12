@@ -8,7 +8,7 @@ add.addEventListener("click", function () {
     let output = input.value;
     
     addElement.innerText = output;
-    document.body.appendChild(addElement);
+    toDo.appendChild(addElement);
     input.value = ""; //als er op de button wordt geklikt     
   });
 
