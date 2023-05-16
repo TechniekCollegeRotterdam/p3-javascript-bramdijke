@@ -1,15 +1,15 @@
 const person = {
   name: "Bram",
-  age: "20",
+  age: 20,
   birth: "30-04-2003",
   gender: "Male",
-  status: "Alive",
+  alive: true,
   hobbies: ["Gaming", "Programming", "Drinking", "Chilling"],
   changeName: function (name) {
     return (this.name = name);
   },
   aliveStatus: function () {
-    return (person.status = "Dead");
+    return (person.alive = false);
   },
   addHobby: function(hobby) {
     return this.hobbies.push(hobby) ;
@@ -23,7 +23,7 @@ output.innerHTML = `
 <p>${person.age}</p>
 <p>${person.birth}</p>
 <p>${person.gender}</p>
-<p>${person.status}</p>
+<p>${person.alive}</p>
 <p>${person.hobbies.join(", ")}</p>
 <p>${person.changeName("Ronald")}</p>
 <p>${person.aliveStatus()}</p>
