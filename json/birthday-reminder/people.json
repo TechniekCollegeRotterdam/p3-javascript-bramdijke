@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bart Slagboom",
+        "age": "18 years",
+        "image": "./img/slagboom.jpg"
+    },
+    {
+        "name": "Bram van Dijke",
+        "age": "20 years",
+        "image": "./img/simon.jpg"
+    },
+    {
+        "name": "Jarrod Verheij",
+        "age": "20 years",
+        "image": "./img/skrogz.jpg"
+    },
+    {
+        "name": "Jason van Schaik",
+        "age": "30 years",
+        "image": "./img/vince.jpg"
+    },
+    {
+        "name": "Maximiliaan de Bruijn",
+        "age": "16 years",
+        "image": "./img/marinus.jpg"
+    },
+    {
+        "name": "Meneer Stroop",
+        "age": "17 years",
+        "image": "./img/stroop.jpg"
+    }
+]
