@@ -1,0 +1,51 @@
+[{
+    "name": "Avatar: Way of Water",
+    "year": "2022",
+    "rating": 7.8,
+    "img": "./img/avatarimg.png"
+}, {
+    "name": "Avengers: Endgame",
+    "year": "2019",
+    "rating": 8.4,
+    "img": "./img/avengersimg.png"
+}, {
+    "name": "Blackhat",
+    "year": "2015",
+    "rating": 5.4,
+    "img": "./img/blackhatimg.png"
+}, {
+    "name": "Spider-Man: No Way Home",
+    "year": "2021",
+    "rating": 8.2,
+    "img": "./img/spidermanimg.png"
+},{
+    "name": "The Human Centipede",
+    "year": "2009",
+    "rating": 4.4,
+    "img": "./img/humancentipedeimg.png"
+}, {
+    "name": "Guardians Of The Galaxy",
+    "year": "2014",
+    "rating": 8.0,
+    "img": "./img/guardiansimg.png"
+}, {
+    "name": "No Time To Die",
+    "year": "2021",
+    "rating": 7.3,
+    "img": "./img/notimetodieimg.png"
+}, {
+    "name": "El Camino",
+    "year": "2019",
+    "rating": 7.3,
+    "img": "./img/elcaminoimg.png"
+},{
+    "name": "Fast & Furious 7",
+    "year": "2015",
+    "rating": 7.1,
+    "img": "./img/furious7img.png"
+}, {
+    "name": "Titanic",
+    "year": "1997",
+    "rating": 7.9,
+    "img": "./img/titanicimg.png"
+}]  
