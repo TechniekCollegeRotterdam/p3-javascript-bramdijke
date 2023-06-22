@@ -52,6 +52,6 @@ registForm.addEventListener("submit", () => {
   });
 });
 
-function alertMessage () {
-    alert("Bedankt! Uw aanmelding is gelukt.");
+function alertMessage() {
+  alert("Bedankt! Uw aanmelding is gelukt.");
 }
